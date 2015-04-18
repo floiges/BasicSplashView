@@ -1,0 +1,34 @@
+//
+//  BasicSplashViewTests.m
+//  BasicSplashViewTests
+//
+//  Created by 224 on 15/4/18.
+//  Copyright (c) 2015年 zoomlgd. All rights reserved.
+//
+
+#import <XCTest/XCTest.h>
+
+@interface BasicSplashViewTests : XCTestCase
+
+@end
+
+@implementation BasicSplashViewTests
+
+- (void)setUp
+{
+    [super setUp];
+    // Put setup code here. This method is called before the invocation of each test method in the class.
+}
+
+- (void)tearDown
+{
+    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    [super tearDown];
+}
+
+- (void)testExample
+{
+    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+}
+
+@end
